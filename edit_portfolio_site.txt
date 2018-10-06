@@ -1,0 +1,31 @@
+#### PLEASE DONT ADD LINES TO THE FILE OR ELSE YOU'LL DISTORT THE LINES
+
+title = Line 11
+ 
+Input name = Line 59
+
+your skills  = Line 61
+
+About yourself 	FIRST PARAGRAPH = Line 142
+
+About yourself  SECOND PARAGRAPH = Line 145
+
+
+Location = Line 212 and 213
+
+## Put the url in the href tag as a string 
+facebook url = Line 219
+google+ url = Line 224
+twitter url = Line 229
+Lindkn url = Line 234
+
+#if you have a dribble account account
+dribble url = Line 239
+
+
+Edit = 246 ---> Firstname
+
+
+your wix url = Line 248
+
+Put your name there = Line 247
